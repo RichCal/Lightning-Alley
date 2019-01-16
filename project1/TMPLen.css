@@ -1,0 +1,34 @@
+/* Stylesheet for the Lightning Alley Project
+Author: RIch
+DAte: 1-9-19
+*/
+
+.jumbotron {
+	background: url(pictures/TBL4.jpg);
+	padding-top: 200px;
+	height: 600px;
+	margin-bottom: 2px;
+}
+
+.hero-text {
+	text-align: center;
+	color: white;
+	font-family: 'Crete Round', serif;
+	text-shadow: 3px 3px blue;
+	
+}
+	
+
+
+header {
+	
+}
+
+body {
+	
+	background-image: url('pictures/TBL5.jpg');
+	background-repeat: no-repeat;
+	background-position: top right; 
+	background-color: black;
+
+}
